@@ -2,7 +2,7 @@
 ### <p align="center">Currently Active</p>
 
 <p align="center">
-  <img height="1800px" src="https://lanyard-profile-readme.vercel.app/api/847507038287822909" />
+  <img height="180px" src="https://lanyard-profile-readme.vercel.app/api/847507038287822909" />
 </p>
 
 <p align="center">
