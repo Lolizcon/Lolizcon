@@ -13,7 +13,7 @@
   <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lolizcon&layout=compact&count_private=true&theme=dracula" alt="Lolizcon" />
 </p>
 
-## Most used language
+### Most used language
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="54" alt="javascript logo"  />
